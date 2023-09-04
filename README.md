@@ -1,4 +1,4 @@
-### Hello World! 👋
+# Hello World! 👋
 
 <!--
 **MaxJGruber/MaxJGruber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Max!
+**Hi, I'm Max!**
 
 Welcome to my GitHub!
 
