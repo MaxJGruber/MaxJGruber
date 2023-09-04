@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hi, I'm Max!**
+**Hi, I'm Max! (Organic Intelligence)**
 
 Welcome to my GitHub!
 
