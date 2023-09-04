@@ -46,7 +46,6 @@ https://www.maxjgruber.site
 <br>
 
 ### Front-End Frameworks
-<br>
 <div> 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -56,7 +55,6 @@ https://www.maxjgruber.site
 <br>
 
 ### Front-End Libraries
-<br>
 <div> 
 <img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
@@ -66,21 +64,18 @@ https://www.maxjgruber.site
 <br>
 
 ### Back-End Frameworks
-<br>
 <div> 
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 <br>
 
 ### Database Types
-<br>
 <div>
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 <br>
 
 ### Testing Tools
-<br>
 <div>
 <img align="left" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 <img align="left" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -89,7 +84,6 @@ https://www.maxjgruber.site
 <br>
 
 ### Programming Tools Types
-<br>
 <div>
 <img align="left" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -103,7 +97,6 @@ https://www.maxjgruber.site
 <br>
 
 ### Currently learning
-<br>
 <div>
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
