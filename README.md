@@ -49,7 +49,7 @@ https://www.maxjgruber.site
   </div> 
 <br>
 <br>
-# Front-End Frameworks
+### Front-End Frameworks
 <br>
 <br>
 <div> 
@@ -60,7 +60,7 @@ https://www.maxjgruber.site
   </div>
 <br>
 <br>
-# Front-End Libraries
+### Front-End Libraries
 <br>
 <br>
 <div> 
@@ -71,7 +71,7 @@ https://www.maxjgruber.site
 </div>
 <br>
 <br>
-# Back-End Frameworks
+### Back-End Frameworks
 <br>
 <br>
 <div> 
@@ -79,7 +79,7 @@ https://www.maxjgruber.site
 </div>
 <br>
 <br>
-# Database Types
+### Database Types
 <br>
 <br>
 <div>
@@ -87,7 +87,7 @@ https://www.maxjgruber.site
 </div>
 <br>
 <br>
-# Testing Tools
+### Testing Tools
 <br>
 <br>
 <div>
@@ -97,7 +97,7 @@ https://www.maxjgruber.site
 </div>
 <br>
 <br>
-# Programming Tools Types
+### Programming Tools Types
 <br>
 <br>
 <div>
@@ -112,7 +112,7 @@ https://www.maxjgruber.site
 </div>
 <br>
 <br>
-# Currently learning
+### Currently learning
 <br>
 <br>
   <div>
