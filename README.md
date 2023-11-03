@@ -27,7 +27,7 @@ I'm a Full Stack Web Developer based in Paris, skilled in MERN stack.
 <br>
 
 ###  Check out my portfolio
-https://www.maxjgruber.site
+https://maxjgruber.site
 
 
 ## Connect with me
